@@ -1,0 +1,11 @@
+Index: number_guessing.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import math\r\n\r\n
+===================================================================
+diff --git a/number_guessing.py b/number_guessing.py
+--- a/number_guessing.py	
++++ b/number_guessing.py	
+@@ -1,2 +1,0 @@
+-import math
+-
