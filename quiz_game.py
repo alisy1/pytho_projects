@@ -18,7 +18,6 @@ answer = input("What is the full form of GPU?")
 if answer == "graphical processing unit":
     print("correct!")
     score = score + 1
-
 else:
     print("incorrect answer")
 
