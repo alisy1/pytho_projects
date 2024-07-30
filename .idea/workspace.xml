@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12f9d26f-242d-4567-bd0b-064e66fffd7a" name="Changes" comment="new project added" />
+    <list default="true" id="12f9d26f-242d-4567-bd0b-064e66fffd7a" name="Changes" comment="git commit -m &quot;rk/pp/sr game&quot;">
+      <change afterPath="$PROJECT_DIR$/password_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numb_guess.py" beforeDir="false" afterPath="$PROJECT_DIR$/numb_guess.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rock_paper_scissor.py" beforeDir="false" afterPath="$PROJECT_DIR$/rock_paper_scissor.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,9 +51,13 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;Python.math_quiz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numb_guess.executor&quot;: &quot;Run&quot;,
     &quot;Python.number_guessing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.password_manager.executor&quot;: &quot;Run&quot;,
     &quot;Python.quiz_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rock_paper_scissor.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/CODE/gitdemo/pytho_projects&quot;
@@ -110,8 +119,43 @@
       <option name="project" value="LOCAL" />
       <updated>1722078666292</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="git commit -m &quot;something&quot;">
+      <option name="closed" value="true" />
+      <created>1722079152797</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1722079152797</updated>
+    </task>
+    <task id="LOCAL-00007" summary="git commit -m &quot;something&quot;">
+      <option name="closed" value="true" />
+      <created>1722079242538</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1722079242538</updated>
+    </task>
+    <task id="LOCAL-00008" summary="number guessing game">
+      <option name="closed" value="true" />
+      <created>1722082919681</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1722082919681</updated>
+    </task>
+    <task id="LOCAL-00009" summary="git commit -m &quot;rk/pp/sr game&quot;">
+      <option name="closed" value="true" />
+      <created>1722252255149</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1722252255149</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.key" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -126,6 +170,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new project added" />
-    <option name="LAST_COMMIT_MESSAGE" value="new project added" />
+    <MESSAGE value="git commit -m &quot;something&quot;" />
+    <MESSAGE value="number guessing game" />
+    <MESSAGE value="git commit -m &quot;rk/pp/sr game&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="git commit -m &quot;rk/pp/sr game&quot;" />
   </component>
 </project>
