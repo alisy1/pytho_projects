@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12f9d26f-242d-4567-bd0b-064e66fffd7a" name="Changes" comment="git commit -m &quot;rk/pp/sr game&quot;">
+      <change afterPath="$PROJECT_DIR$/cdscs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gambling.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/password_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/password_manager.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +52,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.cdscs.executor": "Run",
+    "Python.gambling.executor": "Run",
+    "Python.math_problem_gen.executor": "Run",
     "Python.math_quiz.executor": "Run",
     "Python.numb_guess.executor": "Run",
     "Python.number_guessing.executor": "Run",
@@ -57,7 +63,8 @@
     "Python.rock_paper_scissor.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/CODE/gitdemo/python_projects"
+    "last_opened_file_path": "C:/CODE/gitdemo/python_projects",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
   <component name="SharedIndexes">
